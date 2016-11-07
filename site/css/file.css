@@ -58,9 +58,8 @@ p {
     width: 100%;
     float: left;}
    #lastblock{
-     width: 95%
-   }
-  }
+     width: 95%}
+}
 
 @media (max-width: 767px){
 .col-sm-12{
